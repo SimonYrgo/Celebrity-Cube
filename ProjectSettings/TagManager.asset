@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - 1A
+  - 1B
+  - 1C
+  - 1D
+  - 2A
+  - 2B
+  - 2C
+  - 2D
+  - 3A
+  - 3B
+  - 3C
+  - 3D
   layers:
   - Default
   - TransparentFX
